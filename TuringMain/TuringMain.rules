@@ -1,0 +1,160 @@
+
+(rules PCB TuringMain
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 5327)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.3)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.8)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 152.6)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 38.2 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (padstack "Via[0-1]_904.8:600_um"
+    (shape
+      (circle F.Cu 904.8 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 904.8 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_904.8:600_um" "Via[0-1]_904.8:600_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_904.8:600_um-kicad_default" "Via[0-1]_904.8:600_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_800:400_um-ground" "Via[0-1]_800:400_um" ground
+  )
+  (via 
+    "Via[0-1]_904.8:600_um-ground" "Via[0-1]_904.8:600_um" ground
+  )
+  (via 
+    "Via[0-1]_800:400_um-noise_circuit" "Via[0-1]_800:400_um" "noise_circuit"
+  )
+  (via 
+    "Via[0-1]_904.8:600_um-noise_circuit" "Via[0-1]_904.8:600_um" "noise_circuit"
+  )
+  (via 
+    "Via[0-1]_800:400_um-power" "Via[0-1]_800:400_um" power
+  )
+  (via 
+    "Via[0-1]_904.8:600_um-power" "Via[0-1]_904.8:600_um" power
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (via_rule
+    ground "Via[0-1]_800:400_um-ground"
+  )
+  (via_rule
+    "noise_circuit" "Via[0-1]_800:400_um-noise_circuit"
+  )
+  (via_rule
+    power "Via[0-1]_904.8:600_um-power"
+  )
+  (class default
+    /GND /B1 /BUFFCLK /PULSE8 /PULSE6 /B3 /B4 /PULSE5
+    /PULSE7 /B2 /+12V /B8 /BUFFCLK2 /PULSE1 /PULSE2 /B7
+    /B6 /PULSE3 /PULSE4 /B5 "Net-(BUFFER1-Pad1)" /CLOCK /GATE5 /GATE6
+    /GATE8 /GATE7 "/PULSE_OUT" "Net-(BUFFER2-Pad1)" /GATE1 /GATE2 /GATE3 /GATE4
+    "unconnected-(BUFFER2-Pad15)" "/-12V" "Net-(C9-Pad1)" "Net-(C10-Pad2)" "Net-(C11-Pad1)" /NOISE "Net-(C12-Pad1)" "Net-(C15-Pad2)"
+    "Net-(C17-Pad1)" "Net-(C17-Pad2)" "Net-(C18-Pad1)" "/START_OF_LOOP" "Net-(C23-Pad2)" "Net-(C24-Pad2)" "/STEP_12" "Net-(CHANGE1-Pad2)"
+    "Net-(CHANGE1-Pad3)" "/CLOCK_IN" "/CV_IN" "/CV_OUT" "/+12V_INLET" "Net-(D2-PadA)" "/-12V_INLET" "Net-(IC1-Pad1)"
+    "/LOOP_CTRL" "Net-(IC1-Pad7)" "/END_OF_LOOP" "/STEP_16" "/NOISE_OUT" "Net-(C10-Pad1)" "Net-(C16-Pad2)" "Net-(C18-Pad2)"
+    "Net-(CHANGE1-Pad1)" "Net-(CLK1-Pad2)" "unconnected-(SHIFTREG_EXT1-Pad3)" "unconnected-(SHIFTREG_EXT1-Pad4)" "unconnected-(SHIFTREG_EXT1-Pad5)" "unconnected-(SHIFTREG_EXT1-Pad11)" "unconnected-(SHIFTREG_EXT1-Pad12)" "unconnected-(SHIFTREG_EXT1-Pad13)"
+    "Net-(PULS1-Pad1)" "Net-(R15-Pad2)" "Net-(R21-Pad2)" "Net-(R25-Pad1)" "Net-(R33-Pad1)" "Net-(R1-Pad1)" "Net-(R4-Pad1)" "Net-(R6-Pad1)"
+    "Net-(R8-Pad1)" "Net-(R14-Pad2)" "Net-(R34-Pad1)" "Net-(R16-Pad2)" "Net-(R18-Pad1)" "Net-(R36-Pad2)" "Net-(R27-Pad2)" "Net-(R28-Pad1)"
+    "Net-(R30-Pad2)" "unconnected-(BUFFER1-Pad10)" "unconnected-(T1-Pad3)" "Net-(R20-Pad2)" "Net-(R39-Pad1)" "unconnected-(J1-Pad3)" "unconnected-(J1-Pad5)" "unconnected-(J1-Pad9)"
+    "Net-(U$2-Pad13)" "Net-(U$2-Pad3)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class ground
+    (clearance_class ground)
+    (via_rule ground)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "noise_circuit"
+    (clearance_class "noise_circuit")
+    (via_rule noise_circuit)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class power
+    (clearance_class power)
+    (via_rule power)
+    (rule
+      (width 406.4)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

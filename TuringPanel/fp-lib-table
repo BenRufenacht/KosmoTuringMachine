@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "TuringFront")(type "KiCad")(uri "$(KIPRJMOD)/TuringPanel.pretty")(options "")(descr ""))
+  (lib (name "TuringBack")(type "KiCad")(uri "C:/Users/Walter/Documents/projects/Kosmo/TuringMachine-master/TuringBack/TuringBack.pretty")(options "")(descr ""))
+  (lib (name "Kosmo_panel")(type "KiCad")(uri "C:/Users/Walter/Documents/projects/Kosmo/Kosmo_panel-1.1/Kosmo_panel.pretty")(options "")(descr ""))
+)

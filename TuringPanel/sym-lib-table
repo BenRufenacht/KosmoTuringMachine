@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TuringFront-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TuringFront-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "TuringBack-eagle-import")(type "KiCad")(uri "C:/Users/Walter/Documents/projects/Kosmo/TuringMachine-master/TuringBack/TuringBack-eagle-import.kicad_sym")(options "")(descr ""))
+)

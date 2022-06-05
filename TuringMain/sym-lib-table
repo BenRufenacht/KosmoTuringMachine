@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TuringFront-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/TuringFront-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "TuringBack-eagle-import")(type "KiCad")(uri "C:/Users/Walter/Documents/projects/Kosmo/TuringMachine-master/TuringBack/TuringBack-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "eurorack-psu-cache")(type "Legacy")(uri "C:/Users/Walter/Documents/projects/Kosmo/eurorack-psu-master/eurorack-psu-cache.lib")(options "")(descr ""))
+)
