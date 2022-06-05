@@ -2,7 +2,9 @@
 
 This is the Turing Machine Eurorack module by Tom Whitwell converted into Kosmo format.
 
-![](https://github.com/BenRufenacht/KosmoTuringMachine/blob/main/TuringPanelGraphics.png)
+<p align="center">
+  <img src="TuringPanelGraphics.png" width="200" title="TuringPanelGraphics">
+</p>
 
 Here is the description of the module from Tom Whitwell:
 
