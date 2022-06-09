@@ -3,7 +3,9 @@
 This is the Turing Machine Eurorack module by Tom Whitwell converted into Kosmo format.
 
 <p align="center">
-  <img src="TuringPanelGraphics.png" width="200" title="TuringPanelGraphics">
+  <img src="https://github.com/BenRufenacht/KosmoPulse/blob/main/PulsePanelGraphics.png">
+  <img src="TuringPanelGraphics.png">
+  <img src="https://github.com/BenRufenacht/KosmoVolts/blob/main/VoltsPanelGraphics.png">
 </p>
 
 Here is the description of the module from Tom Whitwell:
