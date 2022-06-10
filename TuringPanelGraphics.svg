@@ -29,8 +29,8 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="1"
-     inkscape:cx="55"
-     inkscape:cy="408"
+     inkscape:cx="55.5"
+     inkscape:cy="407"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -588,9 +588,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3812);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="141.73242"
          y="83.737353"
-         id="tspan521"><tspan
+         id="tspan581"><tspan
            dx="0 15.761719 29.277344 27.8125 16.835938 29.921875 31.015625 14.0625 38.90625 27.34375 27.929688 30.058594 16.835938 29.921875"
-           id="tspan519">tURING mACHINE</tspan></tspan></text>
+           id="tspan579">tURING mACHINE</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
        d="M 25,112.5 V 87.499999"
@@ -621,13 +621,6 @@
        xlink:href="#path3209"
        transform="rotate(60,25,100)"
        id="use3578" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#path3209"
-       xlink:href="#path3209"
-       transform="rotate(90,-12.500001,137.5)"
-       id="use3580" />
     <use
        x="0"
        y="0"
@@ -703,7 +696,7 @@
        style="font-size:42.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:Myfont;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4173);display:inline;fill:#ffffff"><tspan
          x="113.38672"
          y="-17.226663"
-         id="tspan523">Turing Machine</tspan></text>
+         id="tspan583">Turing Machine</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-33.0787,-13.746299)"
@@ -711,7 +704,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan525">Write</tspan></text>
+         id="tspan585">Write</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-84.696204,5.414092)"
@@ -719,7 +712,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan527">Length</tspan></text>
+         id="tspan587">Length</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-32.29202,31.264284)"
@@ -727,7 +720,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan529">Scale</tspan></text>
+         id="tspan589">Scale</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-43.825405,53.834839)"
@@ -735,7 +728,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-7);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan531">Pulse</tspan></text>
+         id="tspan591">Pulse</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-94.855517,78.792506)"
@@ -743,7 +736,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-2);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan533">Clock</tspan></text>
+         id="tspan593">Clock</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-66.310095,78.824256)"
@@ -751,7 +744,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-92);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan535">CV</tspan></text>
+         id="tspan595">CV</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-44.802597,78.77134)"
@@ -759,7 +752,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-94);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan537">Noise</tspan></text>
+         id="tspan597">Noise</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-17.350789,78.824256)"
@@ -767,7 +760,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-1);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan539">Out</tspan></text>
+         id="tspan599">Out</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
