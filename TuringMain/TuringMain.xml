@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Walter\Documents\GitHub\KosmoTuringMachine\TuringMain\TuringMain.kicad_sch</source>
+    <date>6/17/2022 12:09:48 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TuringMain.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AND_1">
+      <value>4081</value>
+      <footprint>TuringBack:DIL14</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4081N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b35f8a8-a74d-4b53-9f6e-3262c7cc2cd8 838d9966-b97c-496a-bd90-90782cecf942 92d639f4-807d-485e-8230-1c2c314e2ebd 20201189-1087-44fc-9ba3-940505bc815d 0989f05a-b9f1-49a5-bd3d-e6fbda228bc2</tstamps>
+    </comp>
+    <comp ref="AND_2">
+      <value>4081</value>
+      <footprint>TuringBack:DIL14</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4081N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fec6155a-f163-4068-86f3-277f24b97494 75afcae3-3088-4bf6-bc7b-63629fb24ffd b602bf50-7f6c-45ea-b5b6-d3046a2d35b3 cf8afaf5-2d8f-4c4c-90de-ee935dbd1ba8 10d5ff85-4aa0-426b-a7e9-7853d53d1795</tstamps>
+    </comp>
+    <comp ref="BUFFER1">
+      <value>4050</value>
+      <footprint>TuringBack:DIL16</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4050N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74123d4d-6fed-4532-84e0-0ae12d34045d c351562a-f8b0-4299-b76b-8556b3ad4d9d e4057ca9-0e9b-417e-b407-0eaeff0f53c5 331fc480-04a0-4bda-9dbb-20beb121452b 708b103b-e4cd-4df1-a809-e13549fd6cd9 63b4af93-5322-40d3-b76c-1958f591dbfe 2a88230f-3dfe-4a1c-8825-8acb2a8093f9</tstamps>
+    </comp>
+    <comp ref="BUFFER2">
+      <value>4050</value>
+      <footprint>TuringBack:DIL16</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4050N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c41d2210-ac40-494e-a62f-18de0012f6c5 b4a8192d-dfd6-4117-9853-7b0a61a94f3b a819b796-b32b-4c1d-a252-c395f214670c 83dfa590-d05e-4c2c-8682-0d92cd87f0e9 ca1e06b5-906d-40af-9b75-6b29121de456 e797fa46-8601-4aeb-8265-9e5b5c9a8c4e 31eb7e99-4c8f-498f-989c-0c1d0b50ebb9</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3124ab6a-328b-4725-b3a1-73dcfb59050b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d4d4bdf-c1e0-4ddb-8d58-697c10c45d5b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66158a2c-ec9d-41e0-9f30-d2d02fd1a9b0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eef7b74-3883-40f0-a279-a42042ac90c1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uf</value>
+      <footprint>ao_tht:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="CP" description="Polarized capacitor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19f30766-b320-4696-8478-d821a29638ea</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uf</value>
+      <footprint>ao_tht:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="CP" description="Polarized capacitor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4918c113-6475-40a6-908c-8269b492bef9</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04e31334-0175-410a-bc85-8dd6228bea69</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4c1bec5-1dcf-436d-b0f6-b11b14e3cb89</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ced21847-3ae4-4fad-97d9-fb5faa9a4aa5</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.47uf</value>
+      <footprint>TuringFront:C050-035X075</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-035X075" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0503e475-2e50-4a15-91f4-e4e04f100616</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.47uf</value>
+      <footprint>TuringFront:C050-035X075</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-035X075" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf7668c8-1dd7-49a3-a226-d121163a7ef6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1cf249e-5c1a-4ff2-8c36-9b4956b5b286</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8305dff8-a8db-4c1f-9a95-f7378d5c404e</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>012a915c-709e-455d-bac2-5b6584633696</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>330pf</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826a730c-33f2-4ca1-89d7-b7faeb4c5878</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f09226eb-f337-40ac-978d-992910b9e751</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>365159df-23e4-4f2e-b0be-da712fd5fddb</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.47uf</value>
+      <footprint>TuringFront:C050-035X075</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-035X075" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74fdbf14-867d-489b-ab31-394e1b87a58b</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3646d319-0d92-4f54-bb7a-9454f1f881c4</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b1c395d-fc7d-4e42-aea6-a9733189ca7a</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5501fdd-19a8-4831-9217-b0530597b586</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c86fe98b-b651-4fd7-8c77-45c5c8e4a5d4</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>553e7e52-63b0-4004-bd05-324a6585301a</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e02695e-3c9c-4c35-b6f3-e46f272b008b</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb9ca62f-cadd-4d70-be9c-7b5123268116</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a4d56f-2466-492a-87e1-44a8e47b9613</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100n</value>
+      <footprint>TuringFront:C050-024X044</footprint>
+      <libsource lib="TuringFront-eagle-import" part="C-EU050-024X044" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5802bbc6-a728-451b-84a8-eab5fadb2a02</tstamps>
+    </comp>
+    <comp ref="CHANGE1">
+      <value>50k</value>
+      <footprint>ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R_POT" description="Potentiometer"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c38920b1-eb12-4d0e-99f2-b8344b11470f</tstamps>
+    </comp>
+    <comp ref="CLK1">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bb1b910-8ccf-495d-bfe6-f59ea381d71e</tstamps>
+    </comp>
+    <comp ref="CLOCK1">
+      <value>THONKICONNNEW</value>
+      <footprint>ao_tht:Jack_6.35mm_PJ_629HAN</footprint>
+      <fields>
+        <field name="SKU">A-1121</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c285c711-ad4d-4352-860e-e0a178640595</tstamps>
+    </comp>
+    <comp ref="CV_IN1">
+      <value>THONKICONNNEW</value>
+      <footprint>ao_tht:Jack_6.35mm_PJ_629HAN</footprint>
+      <fields>
+        <field name="SKU">A-1121</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24f8d140-b487-4721-bf69-f8dc7a96e37f</tstamps>
+    </comp>
+    <comp ref="CV_OUT1">
+      <value>THONKICONNNEW</value>
+      <footprint>ao_tht:Jack_6.35mm_PJ_629HAN</footprint>
+      <fields>
+        <field name="SKU">A-1121</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01e6bc7f-1c40-4a7d-b55f-b467fd355ca5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>TuringFront:DO35-7</footprint>
+      <libsource lib="TuringFront-eagle-import" part="SMALL_DIODEDO35-7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f15af5-2522-4330-bf49-f9d7ee7744be</tstamps>
+    </comp>
+    <comp ref="GATES1">
+      <value>MA08-2</value>
+      <footprint>Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2db8c0b0-7a40-4e36-8da3-102837792129</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TL072P</value>
+      <footprint>TuringBack:DIL08</footprint>
+      <libsource lib="TuringBack-eagle-import" part="TL072P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5b3330a-aa7f-4660-a86c-7a4dc57f44a8 93bc9c10-c24f-4fae-86d2-345bf2d0db7b 187a8b0f-7bba-4b05-953b-97d766521bdc</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>78L09</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <fields>
+        <field name="SKU">A-176</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="L78L05_TO92" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>567ac6aa-278e-4592-b80e-f5cd81047e50</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>78L09</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <fields>
+        <field name="SKU">A-176</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="L78L05_TO92" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29b583c7-0f35-4b9e-9c83-f08988b7fdeb</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x10_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0394c918-5756-4d55-bbcb-f24d377c8d49</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x10_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x10_Female" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f7ff589-3deb-46c0-a832-ca33b6065c5d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>BL01RN1A</value>
+      <footprint>TuringBack:BL01RN1A</footprint>
+      <libsource lib="TuringBack-eagle-import" part="BL01RN1A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8313a131-c836-4641-a633-061b298fd756</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>BL01RN1A</value>
+      <footprint>TuringBack:BL01RN1A</footprint>
+      <libsource lib="TuringBack-eagle-import" part="BL01RN1A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d99c21fc-ef5d-4b15-b987-0154ba51a2bf</tstamps>
+    </comp>
+    <comp ref="LENGTH1">
+      <value>ALPS-SRBV</value>
+      <footprint>TuringFront:ALPS-SRBV</footprint>
+      <libsource lib="TuringFront-eagle-import" part="ALPS-SRBV" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f364fe49-8e2d-47bf-977b-32464252320c</tstamps>
+    </comp>
+    <comp ref="NOISE-OUT1">
+      <value>THONKICONNNEW</value>
+      <footprint>ao_tht:Jack_6.35mm_PJ_629HAN</footprint>
+      <fields>
+        <field name="SKU">A-1121</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34d2e2af-0796-4cd4-8bdc-bcccceed4062</tstamps>
+    </comp>
+    <comp ref="PULS1">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>facf8fc0-dafe-4a51-8bd9-7e19dec5cb1f</tstamps>
+    </comp>
+    <comp ref="PULSES1">
+      <value>MA08-2</value>
+      <footprint>Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="busboard-cache" part="Connector_Generic_Conn_02x08_Odd_Even" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff534714-5450-4ad6-a07c-a8ccad3be11b</tstamps>
+    </comp>
+    <comp ref="PULSE_OUT1">
+      <value>THONKICONNNEW</value>
+      <footprint>ao_tht:Jack_6.35mm_PJ_629HAN</footprint>
+      <fields>
+        <field name="SKU">A-1121</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1121"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3da23e8-f627-42ed-99c7-f7577a061f21</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95270271-9a2b-4e9e-b20c-1504be7d3b3a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>15k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05c49332-706e-40a1-9486-209b6014c6ba</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>68k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8ec8399-83f4-429c-afa7-c48f48b8e972</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e0a1b74-c101-4700-a813-5fe3514b579d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>51k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac7ac7f0-8b47-44cf-bac3-60de41768ade</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b8348a9-9539-49af-af70-f18f631b00a4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>470k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ded9cc79-4616-4f98-b669-ce874e13f2f1</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>904304b2-3ffb-4870-b3fd-8c1b59cdab72</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>15k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0841daad-119a-4adb-a749-b6aa667dd7c8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b782e64f-24c5-4240-95d2-dc6733cf07a1</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="TuringFront-eagle-import" part="RESISTOR7MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98161390-2c72-4710-b5ee-ad8136a491c3</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eb345ae-ebd2-4aae-a076-c0648b7a1070</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da167ad0-83e8-440a-a12a-70db82e3c6f7</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78881a46-8a08-46b6-8e0b-49da7c88601b</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff8ac255-28e9-4efa-a61c-7a94d4ff99da</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70d8d5c4-6ca3-4d9d-b0ee-1b92bdb07be0</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>725b7088-5e5d-400d-8e81-45ca4eecb09a</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10d3a2c1-c0ff-4138-8db3-a6224a1ef741</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cff9f4b-de24-4f7f-87cf-a99f632ba638</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>3.3k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9f310c5-6f16-4db7-a99b-6a8c9d1f7970</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>2.2k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78d72c1b-dafe-49ae-aa9e-de2c79ecdc0b</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>100k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3727e4b0-908e-409b-addd-c3ef73ff4efe</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>441524ee-1220-4469-ae71-331ba7ff9445</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>47k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a23c006f-5881-4457-aa28-922a453bc4b6</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76db7166-9261-4b71-b934-6ecd247ffb72</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>5.1k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e769b9c-79d9-4ba3-b34f-fc79246f6b04</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>1.6k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97c346d0-59b2-4c63-9d7b-fd5722259264</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>1.6k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9566678d-499e-4810-bc01-9396a82d8202</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>100k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6eb9d2f-689f-4736-ad65-f9ccfc6b069c</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f3f7917-1fbb-4ed5-a55d-5d9912244dfd</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>470k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2b55a46-d545-4609-922e-9bfec12c1eda</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>1k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>809b8cf6-aa34-4885-969a-ea9d7d5bb7d3</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be0295df-f662-4e59-86f6-c7dd80ca1147</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31d4d0d5-c9e7-4cdd-8e4d-6a5e6677e1cb</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4663e4da-8dd7-4d00-a728-1f383ba8f1fa</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37bca4d1-d638-4285-bbc2-dbc85b7e5c55</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a514dd3a-0033-4ce3-8600-118572d37502</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dbe3973-bc84-4f5e-af85-f3caa0957bfa</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>10k</value>
+      <footprint>ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R" description="Resistor"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4080289c-655c-4c4f-aa34-4c460908be0c</tstamps>
+    </comp>
+    <comp ref="SCALE1">
+      <value>50k</value>
+      <footprint>ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered</footprint>
+      <fields>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="R_POT" description="Potentiometer"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc2ebcc1-7b9a-4332-97f0-fe8dd2d9bd70</tstamps>
+    </comp>
+    <comp ref="SHIFTREG_EXT1">
+      <value>4015</value>
+      <footprint>TuringBack:DIL16</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4015N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94bb0754-34f1-4c67-88da-9c04aa7ae6c6 e40b5ee2-a496-4de3-a3a2-b5f423307954 80379cfa-713e-4640-9310-27a00dda4c9a</tstamps>
+    </comp>
+    <comp ref="SHIFTREG_MAIN1">
+      <value>4015</value>
+      <footprint>TuringBack:DIL16</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4015N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d31a6d7-88f5-4c78-83fa-083d2412cd54 72f49a7b-69c8-4443-aabe-29996df10b67 6fd38e5f-ac7a-4453-9679-ce36b0a711b0</tstamps>
+    </comp>
+    <comp ref="SV1">
+      <value>10_PIN_HEADER</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <fields>
+        <field name="SKU">A-2939</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="Synth_power_2x5" description="Pin header 2.54 mm 2x5"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-2939"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>010757bf-2a31-4bf3-bde6-db7ecf59a458</tstamps>
+    </comp>
+    <comp ref="SWITCH_IC1">
+      <value>4016</value>
+      <footprint>TuringBack:DIL14</footprint>
+      <libsource lib="TuringBack-eagle-import" part="4016N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd71795d-c0ea-4f50-898b-7d59a6f5ebc3 e37876e5-becb-4fe6-8baf-1742aeb1aa90 940e32fc-e8bd-4e6c-9b83-ddfd11999df4 bc2e6a17-2acb-4e48-8aed-4cc11f982c2c 0eb438a9-ada7-4bed-8b55-0d81750fd9ff</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>2N3904</value>
+      <footprint>ao_tht:TO-92_Inline_Wide</footprint>
+      <fields>
+        <field name="SKU">A-111</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="2N3904" description="Small Signal NPN Transistor, TO-92"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-111"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e076fe2-f02c-41e3-b8b2-dd2e830c7c7e</tstamps>
+    </comp>
+    <comp ref="TL431">
+      <value>TL431CLP</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl431.pdf</datasheet>
+      <libsource lib="Reference_Voltage" part="TL431LP" description="Shunt Regulator, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d667a7-822d-4255-9f05-e05719238808</tstamps>
+    </comp>
+    <comp ref="U$2">
+      <value>DAC0800</value>
+      <footprint>TuringFront:DIL16</footprint>
+      <libsource lib="TuringFront-eagle-import" part="DAC0800" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>117b2dd3-5681-4de4-bc26-dffa8c801a74</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL074_</value>
+      <footprint>TuringFront:DIL14</footprint>
+      <libsource lib="TuringFront-eagle-import" part="TL074_" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>606b15fd-1bf4-4b42-bdb1-589bb46bc4f0 0b8b560b-217b-4ab5-b1ac-25406543e134 11c78349-e8f8-4042-8f41-ad42182486df 67bb0e75-f26f-45ff-8769-cc9c78548d27 08c71fb2-1d25-48da-849f-ca147a67ef47</tstamps>
+    </comp>
+    <comp ref="UNK1">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c64a49e3-a6e3-4ae6-b140-03aa621e9e81</tstamps>
+    </comp>
+    <comp ref="UNK2">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81bc97b1-1d8c-4b7c-933a-55e6f6aef1d3</tstamps>
+    </comp>
+    <comp ref="UNK3">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69912514-1ce7-441f-93e2-db08134b81e1</tstamps>
+    </comp>
+    <comp ref="UNK4">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95cff9d8-83e3-4d9e-a0b9-b65a587990a3</tstamps>
+    </comp>
+    <comp ref="UNK5">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92d79f4f-e2d7-420e-b85a-01079179ffe6</tstamps>
+    </comp>
+    <comp ref="UNK6">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7e13384-6069-4824-aa39-b221e5fe7ed9</tstamps>
+    </comp>
+    <comp ref="UNK7">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e640d938-1a6b-4c17-b9ad-fa2f646decb7</tstamps>
+    </comp>
+    <comp ref="UNK8">
+      <value>LED5MM</value>
+      <footprint>ao_tht:LED_D5.0mm</footprint>
+      <fields>
+        <field name="SKU">A-1553</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <libsource lib="ao_symbols" part="LED_green" description="Light emitting diode"/>
+      <property name="Vendor" value="Tayda"/>
+      <property name="SKU" value="A-1553"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e977014b-4de5-4ed2-a432-4741f5740109</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>1m</value>
+      <footprint>ao_tht:Potentiometer_Bourns_3296W_Vertical_screw_centered</footprint>
+      <libsource lib="TuringFront-eagle-import" part="BOURNS_3362P_TRIMMERP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47fb28e7-32ee-4803-a246-f456d0ab7694</tstamps>
+    </comp>
+    <comp ref="WRITE1">
+      <value>T-80-T-SPDT-ON-OFF-ON</value>
+      <footprint>ao_tht:SPDT-toggle-switch-1M-series</footprint>
+      <libsource lib="TuringFront-eagle-import" part="T-80-T-SPDT-ON-OFF-ON" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TuringMain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40c3a2ab-4852-434f-a38f-e6a8f80569eb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x10_Female">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="TL431LP">
+      <description>Shunt Regulator, TO-92</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl431.pdf</docs>
+      <footprints>
+        <fp>TO*92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL431LP</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl431.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="REF" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="4015N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4015N</field>
+        <field name="Footprint">TuringBack:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CLK" type="input"/>
+        <pin num="2" name="QD" type="output"/>
+        <pin num="3" name="QC" type="output"/>
+        <pin num="4" name="QB" type="output"/>
+        <pin num="5" name="QA" type="output"/>
+        <pin num="6" name="RES" type="input"/>
+        <pin num="7" name="D" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="CLK" type="input"/>
+        <pin num="10" name="QD" type="output"/>
+        <pin num="11" name="QC" type="output"/>
+        <pin num="12" name="QB" type="output"/>
+        <pin num="13" name="QA" type="output"/>
+        <pin num="14" name="RES" type="input"/>
+        <pin num="15" name="D" type="input"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="4016N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4016N</field>
+        <field name="Footprint">TuringBack:DIL14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="tri_state"/>
+        <pin num="2" name="B" type="tri_state"/>
+        <pin num="3" name="B" type="tri_state"/>
+        <pin num="4" name="A" type="tri_state"/>
+        <pin num="5" name="C" type="input"/>
+        <pin num="6" name="C" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="A" type="tri_state"/>
+        <pin num="9" name="B" type="tri_state"/>
+        <pin num="10" name="B" type="tri_state"/>
+        <pin num="11" name="A" type="tri_state"/>
+        <pin num="12" name="C" type="input"/>
+        <pin num="13" name="C" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="4050N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4050N</field>
+        <field name="Footprint">TuringBack:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="O" type="output"/>
+        <pin num="3" name="I" type="input"/>
+        <pin num="4" name="O" type="output"/>
+        <pin num="5" name="I" type="input"/>
+        <pin num="6" name="O" type="output"/>
+        <pin num="7" name="I" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="I" type="input"/>
+        <pin num="10" name="O" type="output"/>
+        <pin num="11" name="I" type="input"/>
+        <pin num="12" name="O" type="output"/>
+        <pin num="14" name="I" type="input"/>
+        <pin num="15" name="O" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="4081N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4081N</field>
+        <field name="Footprint">TuringBack:DIL14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I0" type="input"/>
+        <pin num="2" name="I1" type="input"/>
+        <pin num="3" name="O" type="output"/>
+        <pin num="4" name="O" type="output"/>
+        <pin num="5" name="I0" type="input"/>
+        <pin num="6" name="I1" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="I0" type="input"/>
+        <pin num="9" name="I1" type="input"/>
+        <pin num="10" name="O" type="output"/>
+        <pin num="11" name="O" type="output"/>
+        <pin num="12" name="I0" type="input"/>
+        <pin num="13" name="I1" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="BL01RN1A">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">BL01RN1A</field>
+        <field name="Footprint">TuringBack:BL01RN1A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringBack-eagle-import" part="TL072P">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TL072P</field>
+        <field name="Footprint">TuringBack:DIL08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="ALPS-SRBV">
+      <fields>
+        <field name="Value">ALPS-SRBV</field>
+        <field name="Footprint">TuringFront:ALPS-SRBV</field>
+      </fields>
+      <pins>
+        <pin num="A" name="1" type="passive"/>
+        <pin num="B" name="2" type="passive"/>
+        <pin num="C" name="3" type="passive"/>
+        <pin num="COM" name="A" type="passive"/>
+        <pin num="COM2" name="A" type="passive"/>
+        <pin num="D" name="4" type="passive"/>
+        <pin num="E" name="5" type="passive"/>
+        <pin num="F" name="6" type="passive"/>
+        <pin num="G" name="7" type="passive"/>
+        <pin num="H" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="BOURNS_3362P_TRIMMERP">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">BOURNS_3362P_TRIMMERP</field>
+        <field name="Footprint">TuringFront:BOURNS_3362P_TRIMMER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="C-EU050-024X044">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU050-024X044</field>
+        <field name="Footprint">TuringFront:C050-024X044</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="C-EU050-035X075">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU050-035X075</field>
+        <field name="Footprint">TuringFront:C050-035X075</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="DAC0800">
+      <fields>
+        <field name="Value">DAC0800</field>
+        <field name="Footprint">TuringFront:DIL16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VLC" type="bidirectional"/>
+        <pin num="2" name="IOUT" type="bidirectional"/>
+        <pin num="3" name="V-" type="bidirectional"/>
+        <pin num="4" name="IOUTB" type="bidirectional"/>
+        <pin num="5" name="B1-MSB" type="bidirectional"/>
+        <pin num="6" name="B2" type="bidirectional"/>
+        <pin num="7" name="B3" type="bidirectional"/>
+        <pin num="8" name="B4" type="bidirectional"/>
+        <pin num="9" name="B5" type="bidirectional"/>
+        <pin num="10" name="B6" type="bidirectional"/>
+        <pin num="11" name="B7" type="bidirectional"/>
+        <pin num="12" name="B8-LSB" type="bidirectional"/>
+        <pin num="13" name="V+" type="bidirectional"/>
+        <pin num="14" name="VREF+" type="bidirectional"/>
+        <pin num="15" name="VREF-" type="bidirectional"/>
+        <pin num="16" name="COMP" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="RESISTOR7MM">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RESISTOR7MM</field>
+        <field name="Footprint">TuringFront:7MM_RESISTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="SMALL_DIODEDO35-7">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMALL_DIODEDO35-7</field>
+        <field name="Footprint">TuringFront:DO35-7</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="T-80-T-SPDT-ON-OFF-ON">
+      <fields>
+        <field name="Value">T-80-T-SPDT-ON-OFF-ON</field>
+        <field name="Footprint">TuringFront:M9040P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="O" type="passive"/>
+        <pin num="2" name="P" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TuringFront-eagle-import" part="TL074_">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074_</field>
+        <field name="Footprint">TuringFront:DIL14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="OUT" type="output"/>
+        <pin num="9" name="-IN" type="input"/>
+        <pin num="10" name="+IN" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+IN" type="input"/>
+        <pin num="13" name="-IN" type="input"/>
+        <pin num="14" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="2N3904">
+      <description>Small Signal NPN Transistor, TO-92</description>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">ao_tht:TO-92_Inline_Wide</field>
+        <field name="Vendor">Tayda</field>
+        <field name="SKU">A-111</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+        <field name="Footprint">ao_tht:Jack_6.35mm_PJ_629HAN</field>
+        <field name="Datasheet">~</field>
+        <field name="Vendor">Tayda</field>
+        <field name="SKU">A-1121</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="CP">
+      <description>Polarized capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+        <field name="Footprint">ao_tht:CP_Radial_D6.3mm_P2.50mm</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="L78L05_TO92">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L78L05_TO92</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</field>
+        <field name="Vendor">Tayda</field>
+        <field name="SKU">A-176</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VO" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="LED_green">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_green</field>
+        <field name="Datasheet">~</field>
+        <field name="Vendor">Tayda</field>
+        <field name="SKU">A-1553</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint">ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="R_POT">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_POT</field>
+        <field name="Datasheet">~</field>
+        <field name="Vendor">Tayda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ao_symbols" part="Synth_power_2x5">
+      <description>Pin header 2.54 mm 2x5</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Synth_power_2x5</field>
+        <field name="Footprint">ao_tht:Power_Header</field>
+        <field name="Vendor">Tayda</field>
+        <field name="SKU">A-2939</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-12V" type="power_out"/>
+        <pin num="2" name="-12V" type="passive"/>
+        <pin num="3" name="GND" type="power_out"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="+12V" type="power_out"/>
+        <pin num="10" name="+12V" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="busboard-cache" part="Connector_Generic_Conn_02x08_Odd_Even">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Connector_Generic_Conn_02x08_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Reference_Voltage.kicad_sym</uri>
+    </library>
+    <library logical="TuringBack-eagle-import">
+      <uri>C:/Users/Walter/Documents/projects/Kosmo/TuringMachine-master/TuringBack/TuringBack-eagle-import.kicad_sym</uri>
+    </library>
+    <library logical="TuringFront-eagle-import">
+      <uri>C:\Users\Walter\Documents\GitHub\KosmoTuringMachine\TuringMain/TuringFront-eagle-import.kicad_sym</uri>
+    </library>
+    <library logical="ao_symbols">
+      <uri>C:/Users/Walter/Documents/projects/Kosmo/aoKicad-1.1/ao_symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+12V">
+      <node ref="AND_1" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="AND_2" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="GATES1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="GATES1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="IC3" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PULSES1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="PULSES1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="SHIFTREG_MAIN1" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="SWITCH_IC1" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="WRITE1" pin="1" pinfunction="O" pintype="passive"/>
+    </net>
+    <net code="2" name="/+12V_INLET">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SV1" pin="10" pinfunction="+12V" pintype="passive"/>
+      <node ref="SV1" pin="9" pinfunction="+12V" pintype="power_out"/>
+    </net>
+    <net code="3" name="/-12V">
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="GATES1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="GATES1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PULSES1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="PULSES1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="4" name="/-12V_INLET">
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SV1" pin="1" pinfunction="-12V" pintype="power_out"/>
+      <node ref="SV1" pin="2" pinfunction="-12V" pintype="passive"/>
+    </net>
+    <net code="5" name="/B1">
+      <node ref="AND_1" pin="1" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER1" pin="9" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="F" pinfunction="6" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="2" pinfunction="QD" pintype="output"/>
+      <node ref="U$2" pin="5" pinfunction="B1-MSB" pintype="bidirectional"/>
+      <node ref="UNK1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="6" name="/B2">
+      <node ref="AND_1" pin="12" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER1" pin="11" pinfunction="I" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="11" pinfunction="QC" pintype="output"/>
+      <node ref="U$2" pin="6" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="UNK2" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="7" name="/B3">
+      <node ref="AND_1" pin="5" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER1" pin="7" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="E" pinfunction="5" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="12" pinfunction="QB" pintype="output"/>
+      <node ref="U$2" pin="7" pinfunction="B3" pintype="bidirectional"/>
+      <node ref="UNK3" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="8" name="/B4">
+      <node ref="AND_1" pin="8" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER1" pin="5" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="D" pinfunction="4" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="13" pinfunction="QA" pintype="output"/>
+      <node ref="U$2" pin="8" pinfunction="B4" pintype="bidirectional"/>
+      <node ref="UNK4" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="9" name="/B5">
+      <node ref="AND_2" pin="12" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER2" pin="11" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="C" pinfunction="3" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="10" pinfunction="QD" pintype="output"/>
+      <node ref="U$2" pin="9" pinfunction="B5" pintype="bidirectional"/>
+      <node ref="UNK5" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="10" name="/B6">
+      <node ref="AND_2" pin="8" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER2" pin="9" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="B" pinfunction="2" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="3" pinfunction="QC" pintype="output"/>
+      <node ref="U$2" pin="10" pinfunction="B6" pintype="bidirectional"/>
+      <node ref="UNK6" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="11" name="/B7">
+      <node ref="AND_2" pin="5" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER2" pin="7" pinfunction="I" pintype="input"/>
+      <node ref="LENGTH1" pin="A" pinfunction="1" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="4" pinfunction="QB" pintype="output"/>
+      <node ref="U$2" pin="11" pinfunction="B7" pintype="bidirectional"/>
+      <node ref="UNK7" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="12" name="/B8">
+      <node ref="AND_2" pin="1" pinfunction="I0" pintype="input"/>
+      <node ref="BUFFER2" pin="5" pinfunction="I" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="5" pinfunction="QA" pintype="output"/>
+      <node ref="U$2" pin="12" pinfunction="B8-LSB" pintype="bidirectional"/>
+      <node ref="UNK8" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="13" name="/BUFFCLK">
+      <node ref="AND_1" pin="13" pinfunction="I1" pintype="input"/>
+      <node ref="AND_1" pin="2" pinfunction="I1" pintype="input"/>
+      <node ref="AND_1" pin="6" pinfunction="I1" pintype="input"/>
+      <node ref="AND_1" pin="9" pinfunction="I1" pintype="input"/>
+      <node ref="BUFFER2" pin="2" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="PULSES1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="14" name="/BUFFCLK2">
+      <node ref="AND_2" pin="13" pinfunction="I1" pintype="input"/>
+      <node ref="AND_2" pin="2" pinfunction="I1" pintype="input"/>
+      <node ref="AND_2" pin="6" pinfunction="I1" pintype="input"/>
+      <node ref="AND_2" pin="9" pinfunction="I1" pintype="input"/>
+      <node ref="BUFFER1" pin="2" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="GATES1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="15" name="/CLOCK">
+      <node ref="BUFFER1" pin="3" pinfunction="I" pintype="input"/>
+      <node ref="BUFFER2" pin="3" pinfunction="I" pintype="input"/>
+      <node ref="D2" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="1" pinfunction="CLK" pintype="input"/>
+      <node ref="SHIFTREG_EXT1" pin="9" pinfunction="CLK" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="1" pinfunction="CLK" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="9" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="16" name="/CLOCK_IN">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/CLOCK_IN_J">
+      <node ref="CLOCK1" pin="T" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="18" name="/CV_IN">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/CV_IN_J">
+      <node ref="CV_IN1" pin="T" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="20" name="/CV_OUT">
+      <node ref="CV_OUT1" pin="T" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="SCALE1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="/CV_OUT_J">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="22" name="/END_OF_LOOP">
+      <node ref="LENGTH1" pin="COM" pinfunction="A" pintype="passive"/>
+      <node ref="LENGTH1" pin="COM2" pinfunction="A" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="1" pinfunction="A" pintype="tri_state"/>
+      <node ref="SWITCH_IC1" pin="5" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="23" name="/GATE1">
+      <node ref="BUFFER2" pin="4" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="24" name="/GATE2">
+      <node ref="BUFFER2" pin="6" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="25" name="/GATE3">
+      <node ref="BUFFER2" pin="10" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="26" name="/GATE4">
+      <node ref="BUFFER2" pin="12" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="27" name="/GATE5">
+      <node ref="BUFFER1" pin="4" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="28" name="/GATE6">
+      <node ref="BUFFER1" pin="6" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="29" name="/GATE7">
+      <node ref="BUFFER1" pin="12" pinfunction="O" pintype="output"/>
+      <node ref="GATES1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="30" name="/GATE8">
+      <node ref="GATES1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="31" name="/GND">
+      <node ref="AND_1" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="AND_2" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="BUFFER1" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="BUFFER2" pin="14" pinfunction="I" pintype="input"/>
+      <node ref="BUFFER2" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="CLK1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="CLOCK1" pin="S" pintype="passive"/>
+      <node ref="CV_IN1" pin="S" pintype="passive"/>
+      <node ref="CV_OUT1" pin="S" pintype="passive"/>
+      <node ref="GATES1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="GATES1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="+IN" pintype="input"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="NOISE-OUT1" pin="S" pintype="passive"/>
+      <node ref="PULS1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="PULSES1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="PULSES1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="PULSE_OUT1" pin="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SCALE1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="14" pinfunction="RES" pintype="input"/>
+      <node ref="SHIFTREG_EXT1" pin="6" pinfunction="RES" pintype="input"/>
+      <node ref="SHIFTREG_EXT1" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="SHIFTREG_MAIN1" pin="14" pinfunction="RES" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="6" pinfunction="RES" pintype="input"/>
+      <node ref="SHIFTREG_MAIN1" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="SV1" pin="3" pinfunction="GND" pintype="power_out"/>
+      <node ref="SV1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="SV1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="SV1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="SV1" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="SV1" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="3" pinfunction="B" pintype="tri_state"/>
+      <node ref="SWITCH_IC1" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="SWITCH_IC1" pin="9" pinfunction="B" pintype="tri_state"/>
+      <node ref="T1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="TL431" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U$2" pin="1" pinfunction="VLC" pintype="bidirectional"/>
+      <node ref="U$2" pin="2" pinfunction="IOUT" pintype="bidirectional"/>
+      <node ref="U1" pin="10" pinfunction="+IN" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="+IN" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="+IN" pintype="input"/>
+      <node ref="WRITE1" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="32" name="/LOOP_CTRL">
+      <node ref="IC1" pin="2" pinfunction="-IN" pintype="input"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/NOISE">
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="+IN" pintype="input"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="/NOISE_OUT">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="/NOISE_OUT_J">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="NOISE-OUT1" pin="T" pintype="passive"/>
+    </net>
+    <net code="36" name="/PULSE1">
+      <node ref="AND_2" pin="3" pinfunction="O" pintype="output"/>
+      <node ref="BUFFER1" pin="14" pinfunction="I" pintype="input"/>
+      <node ref="PULSES1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="37" name="/PULSE2">
+      <node ref="AND_2" pin="4" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="38" name="/PULSE3">
+      <node ref="AND_2" pin="10" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="39" name="/PULSE4">
+      <node ref="AND_2" pin="11" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="40" name="/PULSE5">
+      <node ref="AND_1" pin="10" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="41" name="/PULSE6">
+      <node ref="AND_1" pin="4" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="42" name="/PULSE7">
+      <node ref="AND_1" pin="11" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="43" name="/PULSE8">
+      <node ref="AND_1" pin="3" pinfunction="O" pintype="output"/>
+      <node ref="PULSES1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="44" name="/PULSE_OUT">
+      <node ref="BUFFER1" pin="15" pinfunction="O" pintype="output"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="/PULSE_OUT_J">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="PULSE_OUT1" pin="T" pintype="passive"/>
+    </net>
+    <net code="46" name="/START_OF_LOOP">
+      <node ref="C20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="7" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="47" name="/STEP_12">
+      <node ref="C25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="LENGTH1" pin="G" pinfunction="7" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="15" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="48" name="/STEP_16">
+      <node ref="LENGTH1" pin="H" pinfunction="8" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="2" pinfunction="QD" pintype="output"/>
+    </net>
+    <net code="49" name="Net-(BUFFER1-Pad1)">
+      <node ref="BUFFER1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="C21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="50" name="Net-(BUFFER2-Pad1)">
+      <node ref="BUFFER2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="C22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC3" pin="1" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="51" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$2" pin="16" pinfunction="COMP" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="OUT" pintype="output"/>
+      <node ref="VR1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="VR1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-IN" pintype="input"/>
+      <node ref="VR1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+IN" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U$2" pin="4" pinfunction="IOUTB" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="SCALE1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="60" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="61" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="SHIFTREG_MAIN1" pin="15" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="7" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$2" pin="13" pinfunction="V+" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U$2" pin="3" pinfunction="V-" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(CHANGE1-Pad1)">
+      <node ref="CHANGE1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(CHANGE1-Pad2)">
+      <node ref="CHANGE1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(CHANGE1-Pad3)">
+      <node ref="CHANGE1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(CLK1-Pad2)">
+      <node ref="CLK1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D2-PadA)">
+      <node ref="D2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="OUT" pintype="output"/>
+      <node ref="IC1" pin="6" pinfunction="-IN" pintype="input"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="OUT" pintype="output"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(PULS1-Pad1)">
+      <node ref="PULS1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="UNK8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="UNK7" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="UNK6" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="UNK5" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="UNK4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="UNK3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="UNK2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="WRITE1" pin="2" pinfunction="P" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="TL431" pin="1" pinfunction="REF" pintype="passive"/>
+      <node ref="TL431" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="UNK1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="13" pinfunction="C" pintype="input"/>
+      <node ref="SWITCH_IC1" pin="6" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U$2" pin="15" pinfunction="VREF-" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(R28-Pad1)">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U$2" pin="14" pinfunction="VREF+" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(R30-Pad2)">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="12" pinfunction="C" pintype="input"/>
+      <node ref="SWITCH_IC1" pin="8" pinfunction="A" pintype="tri_state"/>
+    </net>
+    <net code="89" name="Net-(R34-Pad1)">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="11" pinfunction="A" pintype="tri_state"/>
+      <node ref="SWITCH_IC1" pin="4" pinfunction="A" pintype="tri_state"/>
+    </net>
+    <net code="90" name="Net-(R36-Pad2)">
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="SWITCH_IC1" pin="10" pinfunction="B" pintype="tri_state"/>
+      <node ref="SWITCH_IC1" pin="2" pinfunction="B" pintype="tri_state"/>
+    </net>
+    <net code="91" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="SHIFTREG_EXT1" pin="10" pinfunction="QD" pintype="output"/>
+    </net>
+    <net code="92" name="unconnected-(BUFFER1-Pad10)">
+      <node ref="BUFFER1" pin="10" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="93" name="unconnected-(BUFFER2-Pad15)">
+      <node ref="BUFFER2" pin="15" pinfunction="O" pintype="output+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J1-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J2-Pad9)">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(SHIFTREG_EXT1-Pad3)">
+      <node ref="SHIFTREG_EXT1" pin="3" pinfunction="QC" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(SHIFTREG_EXT1-Pad4)">
+      <node ref="SHIFTREG_EXT1" pin="4" pinfunction="QB" pintype="output+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(SHIFTREG_EXT1-Pad5)">
+      <node ref="SHIFTREG_EXT1" pin="5" pinfunction="QA" pintype="output+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(SHIFTREG_EXT1-Pad11)">
+      <node ref="SHIFTREG_EXT1" pin="11" pinfunction="QC" pintype="output+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(SHIFTREG_EXT1-Pad12)">
+      <node ref="SHIFTREG_EXT1" pin="12" pinfunction="QB" pintype="output+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(SHIFTREG_EXT1-Pad13)">
+      <node ref="SHIFTREG_EXT1" pin="13" pinfunction="QA" pintype="output+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(T1-Pad3)">
+      <node ref="T1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
