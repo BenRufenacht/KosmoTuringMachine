@@ -27,7 +27,7 @@ The 2016 revised Turing Machine has many improvements:
 [Schematic](https://github.com/TomWhitwell/TuringMachine/blob/master/Collateral/PDF%20Schematics/TuringMachine2_Schematic_May2016.pdf)
 
 Status:   
-June 2022 - Boards have not been manufactured or tested 
+July 2022 - Boards were manufactured and tested. Updates have been made to the main board and panel, but these updates have not been tested.
 
 License:  
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) 
