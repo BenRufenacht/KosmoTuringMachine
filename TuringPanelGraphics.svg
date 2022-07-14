@@ -30,7 +30,7 @@
      showguides="true"
      inkscape:zoom="1"
      inkscape:cx="55.5"
-     inkscape:cy="407"
+     inkscape:cy="406"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -134,8 +134,8 @@
     <rect
        x="113.38583"
        y="-56.692913"
-       width="283.46457"
-       height="56.692907"
+       width="356.3726"
+       height="55.652704"
        id="rect4173" />
     <rect
        x="-236.22047"
@@ -399,35 +399,35 @@
        cy="25"
        r="2.5" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8375;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.715;stroke-dasharray:none"
        id="circle472"
        cx="62.5"
        cy="150"
-       r="7.5" />
+       r="7" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8375;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.715;stroke-dasharray:none"
        id="circle476"
        cx="12.5"
        cy="175"
-       r="7.5" />
+       r="7" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8375;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.715;stroke-dasharray:none"
        id="circle478"
        cx="37.5"
        cy="175"
-       r="7.5" />
+       r="7" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8375;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.715;stroke-dasharray:none"
        id="circle480"
        cx="62.5"
        cy="175"
-       r="7.5" />
+       r="7" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8375;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.715;stroke-dasharray:none"
        id="circle482"
        cx="87.5"
        cy="175"
-       r="7.5" />
+       r="7" />
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.269565;stroke-dasharray:none;stroke-opacity:1"
        id="path486"
@@ -476,10 +476,9 @@
        id="path4065"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 62.5,135 0,15"
-       id="path4067"
-       sodipodi:nodetypes="cc" />
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+       d="m 62.150391,135 v 15 h 0.699218 v -15 z"
+       id="path4067" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m -0.48501833,49.441801 2.92802853,-2.257462 1.6640994,3.714951 3.113828,-4.963353 2.5686364,5.059322 1.412137,-3.848881 1.783148,3.602936 2.051251,-2.495613 1.473417,2.524279 1.093813,-4.435911 0.869817,3.879316 1.800186,-2.575687 2.102399,2.260826 2.447358,-2.564967 2.159021,3.323129 4.0194,-3.327013 3.454575,3.250734 3.550301,-3.093911 5.124818,2.552417 6.138185,-3.286463 7.367944,2.98263 5.502584,-2.471147 3.775126,2.671248 4.910996,-2.550368 7.342161,2.367312 6.049702,-2.633166 2.392341,3.124658 4.91201,-3.018269 4.687955,1.300899 3.71381,-0.684904"
@@ -588,9 +587,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3812);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="141.73242"
          y="83.737353"
-         id="tspan581"><tspan
+         id="tspan686"><tspan
            dx="0 15.761719 29.277344 27.8125 16.835938 29.921875 31.015625 14.0625 38.90625 27.34375 27.929688 30.058594 16.835938 29.921875"
-           id="tspan579">tURING mACHINE</tspan></tspan></text>
+           id="tspan684">tURING mACHINE</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
        d="M 25,112.5 V 87.499999"
@@ -691,12 +690,12 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-14.29025,17.775222)"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.56786,17.820378)"
        id="text4171"
        style="font-size:42.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:Myfont;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4173);display:inline;fill:#ffffff"><tspan
          x="113.38672"
          y="-17.226663"
-         id="tspan583">Turing Machine</tspan></text>
+         id="tspan688">The Halting Problem</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-33.0787,-13.746299)"
@@ -704,7 +703,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan585">Write</tspan></text>
+         id="tspan690">Write</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-84.696204,5.414092)"
@@ -712,7 +711,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan587">Length</tspan></text>
+         id="tspan692">Length</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-32.29202,31.264284)"
@@ -720,7 +719,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-9);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan589">Scale</tspan></text>
+         id="tspan694">Scale</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-43.825405,53.834839)"
@@ -728,7 +727,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-7);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan591">Pulse</tspan></text>
+         id="tspan696">Pulse</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-94.855517,78.792506)"
@@ -736,7 +735,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-2);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan593">Clock</tspan></text>
+         id="tspan698">Clock</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-66.310095,78.824256)"
@@ -744,7 +743,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-92);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan595">CV</tspan></text>
+         id="tspan700">CV</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-44.802597,78.77134)"
@@ -752,7 +751,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-94);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan597">Noise</tspan></text>
+         id="tspan702">Noise</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-17.350789,78.824256)"
@@ -760,7 +759,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4181-4-1);display:inline;fill:#ffffff"><tspan
          x="377.95312"
          y="421.51631"
-         id="tspan599">Out</tspan></text>
+         id="tspan704">Out</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
