@@ -8,6 +8,10 @@ This is the Turing Machine Eurorack module by Tom Whitwell converted into Kosmo 
   <img src="https://github.com/BenRufenacht/KosmoVolts/blob/main/VoltsPanelGraphics.png">
 </p>
 
+<p align="center">
+  <img src="KosmoTuringMachine.jpg">
+</p>
+
 Here is the description of the module from Tom Whitwell:
 
 Since it was launched in June 2012, the Turing Machine has become one of the most popular Eurorack DIY projects. It is a random looping sequencer that spits out basslines and melodies. It generates strings of random voltages that can be locked into looping sequences. 
@@ -27,7 +31,7 @@ The 2016 revised Turing Machine has many improvements:
 [Schematic](https://github.com/TomWhitwell/TuringMachine/blob/master/Collateral/PDF%20Schematics/TuringMachine2_Schematic_May2016.pdf)
 
 Status:   
-June 2022 - Boards have not been manufactured or tested 
+July 2022 - Boards were manufactured and tested. Updates have been made to the main board and panel, but these updates have not been tested.
 
 License:  
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) 
