@@ -1,4 +1,4 @@
-20367613463188556
+20369277816231869
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56350,6 +56350,13 @@ solder jumper open
 5
 3
 Kosmo_panel
+Kosmo_Illum_Switch
+
+
+0
+0
+0
+Kosmo_panel
 Kosmo_Jack_Hole
 Mounting Hole 6mm
 mounting hole 6mm
@@ -56361,8 +56368,8 @@ Kosmo_LED_Hole
 Mounting Hole 6mm
 mounting hole 6mm
 0
-1
-1
+0
+0
 Kosmo_panel
 Kosmo_Panel_Dual_Mounting_Holes
 Mounting Hole 3.2mm, M3
